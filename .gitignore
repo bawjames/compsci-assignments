@@ -1,0 +1,15 @@
+# Ignore everyting
+*
+
+# Except directories
+!*/
+
+# Or these file types
+!.gitignore
+!*.cs
+!*.csproj
+!*.md
+!*.json
+
+# But also ignore the submission file
+Submission.cs
