@@ -1,7 +1,7 @@
 # James Baw Assessment Report
 **I confirm that the following work is entirely my own, and that AI was not used in the making of it.**
 The primary external resource I used was the official C# language reference (Microsoft Learn).
-Also note that my original code was split into appropriate files, containing appropriate namespaces, following better code practices. The original files are hosted [here](github.com/bawjames/cs-assignment-01).
+Also note that my original code was split into appropriate files, containing appropriate namespaces. The original files are hosted [here](github.com/bawjames/cs-assignment-01).
 
 ## Handling of Iteration
 When iterating over elements of a datastructure, I used a `for` loop, or in some cases the `Select` function for terse transformation of elements during database querying.
